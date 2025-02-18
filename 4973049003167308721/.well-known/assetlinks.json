@@ -1,0 +1,16 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "csit.puet",
+      "sha256_cert_fingerprints":
+        ["9B:2F:71:CB:45:69:84:BD:C7:29:93:1D:43:AF:58:6E:55:29:8B:AE:BF:68:FA:2B:5D:CB:9A:17:CB:20:5D:D9", "38:C1:46:32:3A:F5:85:C7:BB:3C:88:3E:F8:24:EF:09:CE:DD:7A:60:C0:1C:D6:DF:90:55:71:D4:58:F7:FB:D9"]
+    }
+  }
+]
+
+
+https://puetapp.online/4973049003167308721//.well-known/assetlinks.json
+
+Enter a domain to generate a JSON file
